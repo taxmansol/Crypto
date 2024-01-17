@@ -53,3 +53,6 @@ Bitcoin: Bitcoin is known for its strong censorship resistance. Transactions on 
 Solana: Solana's censorship resistance is not as strong as Bitcoin's due to its more centralized architecture. In theory, a dominant group of validators could collude to censor or manipulate transactions on the network. However, it's important to note that Solana's validators are spread across different jurisdictions, making it challenging for a single entity to gain control over the network.
 
 Overall, Bitcoin has a clear advantage in terms of decentralization and censorship resistance compared to Solana. Bitcoin's larger and more distributed network, coupled with its immutable transaction history, makes it a more robust and censorship-resistant cryptocurrency.
+
+
+Nakamoto Coefficient
