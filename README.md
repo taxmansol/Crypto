@@ -15,6 +15,15 @@ Currency is not money, they are different.
 @grok
 Bitcoin, the first successful cryptocurrency, solved the double spending issue using blockchain technology, which addresses the Byzantine General Problem of reaching consensus in a potentially misleading environment. The blockchain is a public, digital ledger that eliminates the need for third-party intermediaries like banks. Unlike fiat currency, which is backed by the government, Bitcoin is decentralized and not controlled by any single entity.
 
+The blockchain trilemma, also known as the scalability trilemma, refers to the challenge of achieving all three of the following properties in a blockchain network:
+
+Scalability: The ability to process a large number of transactions per second.
+Security: The ability to resist attacks and maintain the integrity of the network.
+Decentralization: The distribution of power and decision-making across a large number of participants.
+
+It is generally believed that it is difficult, if not impossible, to achieve all three of these properties simultaneously. If a blockchain network is highly scalable and decentralized, it may be less secure. Conversely, if a blockchain network is highly secure and decentralized, it may be less scalable.
+
+
 BTC vs SOL
 
 Solana is designed to scale better than Bitcoin due to several key architectural differences:
