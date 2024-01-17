@@ -29,4 +29,18 @@ Sealevel: Solana also utilizes a storage technology called Sealevel, which allow
 
 Cloudbreak: Solana's Cloudbreak feature enables horizontal scaling by partitioning the network into smaller clusters. These clusters can process transactions independently, further increasing the network's throughput and scalability.
 
-In summary, Solana's innovative consensus mechanism, parallelized transaction processing, Gulf Stream protocol, Sealevel storage, and Cloudbreak horizontal scaling capabilities collectively contribute to its superior scalability compared to Bitcoin. These features allow Solana to handle a significantly higher
+In summary, Solana's innovative consensus mechanism, parallelized transaction processing, Gulf Stream protocol, Sealevel storage, and Cloudbreak horizontal scaling capabilities collectively contribute to its superior scalability compared to Bitcoin. These features allow Solana to handle a significantly higher load.
+
+Decentralization:
+
+Bitcoin: Bitcoin is a highly decentralized cryptocurrency. Its network is maintained by a large number of independent nodes distributed worldwide. No single entity or group has control over the network, making it resistant to censorship and manipulation.
+
+Solana: While Solana is also decentralized, it has a more centralized architecture compared to Bitcoin. The network is governed by a smaller set of validators, which raises concerns about potential centralization and the possibility of censorship or manipulation by a dominant group.
+
+Censorship Resistance:
+
+Bitcoin: Bitcoin is known for its strong censorship resistance. Transactions on the Bitcoin network are immutable once they are confirmed, meaning they cannot be reversed or altered. This makes Bitcoin a valuable tool for individuals seeking to protect their assets from censorship or confiscation.
+
+Solana: Solana's censorship resistance is not as strong as Bitcoin's due to its more centralized architecture. In theory, a dominant group of validators could collude to censor or manipulate transactions on the network. However, it's important to note that Solana's validators are spread across different jurisdictions, making it challenging for a single entity to gain control over the network.
+
+Overall, Bitcoin has a clear advantage in terms of decentralization and censorship resistance compared to Solana. Bitcoin's larger and more distributed network, coupled with its immutable transaction history, makes it a more robust and censorship-resistant cryptocurrency.
