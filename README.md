@@ -1,5 +1,5 @@
 # Crypto
-[The Bitcoin Gospel](https://github.com/xicilion/BitcoinWhitePaper/blob/main/Bitcoin.pdf)and onwards
+[The Bitcoin Gospel ](https://github.com/xicilion/BitcoinWhitePaper/blob/main/Bitcoin.pdf)and onwards
 
 The first cryptocurrency that stuck around was Bitcoin. It stuck around because Bitcoin solved the double spending issue via solving the Byzantine General Problem.
 The Byzantine General Problem in simplest terms is
